@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kunalmishra01
-- 👀 I’m interested in sofatware development, fintech and artificial intelligence.
+- 👀 I’m interested in software development, fintech and artificial intelligence.
 - 💞️ I’m looking to collaborate on new research and innovations in fintech and AI.
 
 <!---
